@@ -14,4 +14,28 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <dependencies>
+                <!-- Да, для использования JUnit Jupiter (JUnit 5)
+        в ваших тестах в Java необходимо добавить соответствующую
+        зависимость в файл pom.xml. JUnit Jupiter - это фреймворк
+        для написания тестов в Java.-->
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.8.0</version> <!-- Укажите актуальную версию JUnit Jupiter -->
+            <scope>test</scope>
+        </dependency>
+
+        <!-- Другие зависимости -->
+        <!-- AssertJ предоставляет множество методов для
+        более сложных проверок,-->
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>3.21.0</version> <!-- Укажите актуальную версию AssertJ -->
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
 </project>
