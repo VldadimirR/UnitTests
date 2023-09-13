@@ -1,4 +1,7 @@
-package Homework1.Task2;
+package org.example.Homework1.Task2;
+
+import org.example.Homework1.Task2.Product;
+import org.example.Homework1.Task2.ProductComparator;
 
 import java.util.List;
 

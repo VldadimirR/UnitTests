@@ -1,4 +1,4 @@
-package Homework1.Task2;
+package org.example.Homework1.Task2;
 
 public class Product implements Comparable<Product> {
     private Integer cost; // Стоимость продукта

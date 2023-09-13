@@ -1,6 +1,6 @@
 package Homework1.Task1;
 
-import Homework1.Task1.Calculator;
+import org.example.Homework1.Task1.Calculator;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThatThrownBy;

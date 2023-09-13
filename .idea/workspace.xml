@@ -5,13 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="523d05ba-ab77-4cf3-85c0-84c7c8243d36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task1/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ProductComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task2/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/TextUserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Homework2/VehicleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/TestSomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/TextUserInterfaceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task1/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task1/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task2/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ProductComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task2/ProductComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task2/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ShopTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,88 +65,97 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShopTest">
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework1.Task1.CalculatorTest" />
+  <component name="RunManager" selected="JUnit.VehicleTest">
+    <configuration name="CartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
-      <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework1.Task1.*" />
+          <option name="PATTERN" value="Seminar2Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Seminar2Test" />
+      <option name="MAIN_CLASS_NAME" value="Seminar2Test.CartTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Main" />
+    <configuration name="ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1.*" />
+          <option name="PATTERN" value="Seminar2Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Seminar2Test" />
+      <option name="MAIN_CLASS_NAME" value="Seminar2Test.ProductTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework1.Task2.ShopTest" />
+    <configuration name="TestSomeClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework1.Task2.*" />
+          <option name="PATTERN" value="Seminar2Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Seminar2Test" />
+      <option name="MAIN_CLASS_NAME" value="Seminar2Test.TestSomeClass" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assertThat.Task1" />
+    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assertThat.*" />
+          <option name="PATTERN" value="Homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Homework2" />
+      <option name="MAIN_CLASS_NAME" value="Homework2.VehicleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Task3" />
+    <configuration name="VehicleTest.testCarExtendVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
-      <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1.*" />
+          <option name="PATTERN" value="Homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Homework2" />
+      <option name="MAIN_CLASS_NAME" value="Homework2.VehicleTest" />
+      <option name="METHOD_NAME" value="testCarExtendVehicle" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShopTest" />
-      <item itemvalue="Application.CalculatorTest" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Task3" />
-      <item itemvalue="Application.Task1" />
+      <item itemvalue="JUnit.VehicleTest" />
+      <item itemvalue="JUnit.VehicleTest.testCarExtendVehicle" />
+      <item itemvalue="JUnit.CartTest" />
+      <item itemvalue="JUnit.ProductTest" />
+      <item itemvalue="JUnit.TestSomeClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShopTest" />
-        <item itemvalue="Application.CalculatorTest" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.VehicleTest" />
+        <item itemvalue="JUnit.VehicleTest.testCarExtendVehicle" />
+        <item itemvalue="JUnit.ProductTest" />
+        <item itemvalue="JUnit.CartTest" />
+        <item itemvalue="JUnit.TestSomeClass" />
       </list>
     </recent_temporary>
   </component>

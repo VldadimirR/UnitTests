@@ -1,5 +1,8 @@
 package Homework1.Task2;
 
+import org.example.Homework1.Task2.Product;
+import org.example.Homework1.Task2.Shop;
+
 import java.util.ArrayList;
 import java.util.List;
 

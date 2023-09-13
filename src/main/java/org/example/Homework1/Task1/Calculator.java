@@ -1,4 +1,4 @@
-package Homework1.Task1;
+package org.example.Homework1.Task1;
 
 public class Calculator {
     public static int calculation(int firstOperand, int secondOperand, char operator) {

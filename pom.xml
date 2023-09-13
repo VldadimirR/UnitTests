@@ -36,6 +36,14 @@
             <version>3.21.0</version> <!-- Укажите актуальную версию AssertJ -->
             <scope>test</scope>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.junit.platform/junit-platform-commons -->
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-commons</artifactId>
+            <version>1.9.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
