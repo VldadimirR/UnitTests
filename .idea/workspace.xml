@@ -5,30 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="523d05ba-ab77-4cf3-85c0-84c7c8243d36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/Shop/TextUserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar2/SomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework2/VehicleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/ShopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/TestSomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Seminar2Test/TextUserInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework3/MainHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework3/task2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework3/task2/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/additional/AdditionalClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/additional/AdditionalClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/contoller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/model/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar3/view/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/homework3/MainHWTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/homework3/task2/UserRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar3/additional/AdditionalClass1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar3/additional/AdditionalClass2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar3/contoller/CalculatorControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar3/model/CalculatorModelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar3/view/CalculatorViewTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task1/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task1/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task2/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ProductComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task2/ProductComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework1/Task2/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework1/Task2/ShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Seminar2Test/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson2/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Seminar2Test/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson2/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Seminar2Test/ShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson2/ShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Seminar2Test/TestSomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson2/TestSomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Seminar2Test/TextUserInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson2/TextUserInterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/assertThat/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/assertThat/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/assertThat/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/assertThat/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/assertThat/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/assertThat/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/assertThat/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/assertThat/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -59,103 +62,116 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.VehicleTest">
-    <configuration name="CartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.homework3.task2" />
+      <recent name="org.example.homework3" />
+      <recent name="org.example.seminar3.view" />
+      <recent name="org.example.seminar3.model" />
+      <recent name="org.example.seminar3.contoller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserRepositoryTest">
+    <configuration name="MainHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.homework3.MainHW" />
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminar2Test.*" />
+          <option name="PATTERN" value="org.example.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Seminar2Test" />
-      <option name="MAIN_CLASS_NAME" value="Seminar2Test.CartTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainHWTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.homework3" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework3.MainHWTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainHWTest.numberInInterval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminar2Test.*" />
+          <option name="PATTERN" value="org.example.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Seminar2Test" />
-      <option name="MAIN_CLASS_NAME" value="Seminar2Test.ProductTest" />
+      <option name="PACKAGE_NAME" value="org.example.homework3" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework3.MainHWTest" />
+      <option name="METHOD_NAME" value="numberInInterval" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.homework3.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.homework3.task2" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework3.task2.UserRepositoryTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSomeClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryTest.logsOutUserExceptAdmins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminar2Test.*" />
+          <option name="PATTERN" value="org.example.homework3.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Seminar2Test" />
-      <option name="MAIN_CLASS_NAME" value="Seminar2Test.TestSomeClass" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Homework2" />
-      <option name="MAIN_CLASS_NAME" value="Homework2.VehicleTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleTest.testCarExtendVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Homework2" />
-      <option name="MAIN_CLASS_NAME" value="Homework2.VehicleTest" />
-      <option name="METHOD_NAME" value="testCarExtendVehicle" />
+      <option name="PACKAGE_NAME" value="org.example.homework3.task2" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework3.task2.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="logsOutUserExceptAdmins" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.VehicleTest" />
-      <item itemvalue="JUnit.VehicleTest.testCarExtendVehicle" />
-      <item itemvalue="JUnit.CartTest" />
-      <item itemvalue="JUnit.ProductTest" />
-      <item itemvalue="JUnit.TestSomeClass" />
+      <item itemvalue="Application.MainHW" />
+      <item itemvalue="JUnit.MainHWTest" />
+      <item itemvalue="JUnit.MainHWTest.numberInInterval" />
+      <item itemvalue="JUnit.UserRepositoryTest" />
+      <item itemvalue="JUnit.UserRepositoryTest.logsOutUserExceptAdmins" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VehicleTest" />
-        <item itemvalue="JUnit.VehicleTest.testCarExtendVehicle" />
-        <item itemvalue="JUnit.ProductTest" />
-        <item itemvalue="JUnit.CartTest" />
-        <item itemvalue="JUnit.TestSomeClass" />
+        <item itemvalue="JUnit.UserRepositoryTest" />
+        <item itemvalue="JUnit.UserRepositoryTest.logsOutUserExceptAdmins" />
+        <item itemvalue="JUnit.MainHWTest" />
+        <item itemvalue="Application.MainHW" />
+        <item itemvalue="JUnit.MainHWTest.numberInInterval" />
       </list>
     </recent_temporary>
   </component>
@@ -184,5 +200,16 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UnitTest$VehicleTest.ic" NAME="VehicleTest Coverage Results" MODIFIED="1694792012864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Homework2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTest$MainHWTest.ic" NAME="MainHWTest Coverage Results" MODIFIED="1695036753873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.homework3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTest$MainHW.ic" NAME="MainHW Coverage Results" MODIFIED="1695036738960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.homework3.*</FILTER>
+    </SUITE>
   </component>
 </project>

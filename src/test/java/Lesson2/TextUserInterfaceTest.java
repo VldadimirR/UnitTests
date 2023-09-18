@@ -1,6 +1,4 @@
-package Seminar2Test;
-
-import static org.junit.jupiter.api.Assertions.*;
+package Lesson2;
 
 import org.example.Seminar2.Shop.Cart;
 import org.example.Seminar2.Shop.Shop;

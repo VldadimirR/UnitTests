@@ -1,4 +1,4 @@
-package assertThat;
+package Lesson1.assertThat;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
