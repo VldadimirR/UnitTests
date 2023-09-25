@@ -1,12 +1,12 @@
-package Lesson1.seminar3.additional;
+package org.example.seminar5.task3;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class AdditionalClass2Test {
+class UserRepositoryTest {
 
     @Test
-    void customOperation() {
+    void getUserById() {
     }
 }

@@ -1,7 +1,8 @@
-package org.example.seminar3.additional;
+package Lesson1.seminar3.additional;
 
 import org.example.Homework2.Car;
 import org.example.Homework2.Motorcycle;
+import org.example.seminar3.additional.AdditionalClass1;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

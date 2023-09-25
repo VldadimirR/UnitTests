@@ -1,4 +1,4 @@
-package org.example.seminar3.view;
+package Lesson1.seminar3.view;
 
 import static org.junit.jupiter.api.Assertions.*;
 

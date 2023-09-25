@@ -1,7 +1,8 @@
-package org.example.seminar3.contoller;
+package Lesson1.seminar3.contoller;
 
 import org.example.Homework2.Car;
 import org.example.Homework2.Motorcycle;
+import org.example.seminar3.contoller.CalculatorController;
 import org.example.seminar3.model.CalculatorModel;
 import org.example.seminar3.view.CalculatorView;
 import org.junit.jupiter.api.BeforeEach;

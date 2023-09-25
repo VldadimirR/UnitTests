@@ -1,4 +1,4 @@
-package org.example.seminar3.model;
+package Lesson1.seminar3.model;
 
 import org.junit.jupiter.api.Test;
 
