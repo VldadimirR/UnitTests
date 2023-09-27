@@ -3,6 +3,7 @@ package org.example.seminar5.task1;
 import org.example.seminar5.MaxNumberFinder;
 import org.junit.jupiter.api.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -22,7 +23,7 @@ public class MaxNumberFinderTest {
     @Test
     public void testFindMaxEmptyList() {
         MaxNumberFinder finder = new MaxNumberFinder();
-        List<Integer> emptyList = Arrays.asList();
+        List<Integer> emptyList = new ArrayList<>();
 
         assertThrows(IllegalArgumentException.class, () -> finder.findMax(emptyList));
     }

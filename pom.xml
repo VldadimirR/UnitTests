@@ -58,6 +58,13 @@
             <version>3.141.59</version> <!-- Замените на актуальную версию Selenium WebDriver -->
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/checkstyle/checkstyle -->
+        <dependency>
+            <groupId>checkstyle</groupId>
+            <artifactId>checkstyle</artifactId>
+            <version>5.0</version>
+        </dependency>
+
 
     </dependencies>
 

@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="523d05ba-ab77-4cf3-85c0-84c7c8243d36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homework5/hm.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/MaxNumberFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/RandomNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/task2/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/task2/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/task3/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar5/task3/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task1/IntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task1/MaxNumberFinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task1/RandomNumberGeneratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task2/OrderServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task3/UserRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task3/UserServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task3/UserServiceTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task4/SauceDemoLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/homework6/CoverageTest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/homework6/TaskTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/additional/AdditionalClass1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/additional/AdditionalClass1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/additional/AdditionalClass2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/additional/AdditionalClass2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/contoller/CalculatorControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/contoller/CalculatorControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/model/CalculatorModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/model/CalculatorModelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/view/CalculatorViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lesson1/seminar3/view/CalculatorViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/seminar4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/seminar4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task1/MaxNumberFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/seminar5/task1/MaxNumberFinderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -59,36 +45,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "proofread"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rasal\Программирование\TestsU\UnitTest\src\test\java\org\example\homework6" />
       <recent name="C:\Users\rasal\Программирование\TestsU\UnitTest\src\test\java\org\example\seminar4\book" />
       <recent name="C:\Users\rasal\Программирование\TestsU\UnitTest\src\test\java" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.homework6" />
       <recent name="org.example.seminar5.task2" />
       <recent name="org.example.seminar5.task3" />
       <recent name="org.example.seminar5" />
       <recent name="org.example.seminar4.book" />
-      <recent name="org.example.homework3.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.OrderServiceTest">
+  <component name="RunManager" selected="JUnit.TaskTest">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="UnitTest" />
@@ -96,33 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.homework6.Task" />
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.seminar4.book.*" />
+          <option name="PATTERN" value="org.example.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.seminar4.book" />
-      <option name="MAIN_CLASS_NAME" value="org.example.seminar4.book.BookServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookServiceTest.findBookById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.seminar4.book.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.seminar4.book" />
-      <option name="MAIN_CLASS_NAME" value="org.example.seminar4.book.BookServiceTest" />
-      <option name="METHOD_NAME" value="findBookById" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,6 +107,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example.seminar5.task2" />
       <option name="MAIN_CLASS_NAME" value="org.example.seminar5.task2.OrderServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.homework6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.homework6.TaskTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,19 +143,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Task" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="JUnit.TaskTest" />
       <item itemvalue="JUnit.OrderServiceTest" />
       <item itemvalue="JUnit.UserServiceTest" />
-      <item itemvalue="JUnit.BookServiceTest" />
-      <item itemvalue="JUnit.BookServiceTest.findBookById" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TaskTest" />
+        <item itemvalue="Application.Task" />
         <item itemvalue="JUnit.OrderServiceTest" />
         <item itemvalue="JUnit.UserServiceTest" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.BookServiceTest" />
-        <item itemvalue="JUnit.BookServiceTest.findBookById" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +191,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/UnitTest$MainHWTest.ic" NAME="MainHWTest Coverage Results" MODIFIED="1695036753873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.example.homework3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTest$TaskTest.ic" NAME="TaskTest Coverage Results" MODIFIED="1695810764722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.homework6.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/UnitTest$MainHW.ic" NAME="MainHW Coverage Results" MODIFIED="1695036738960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.example.homework3.*</FILTER>
